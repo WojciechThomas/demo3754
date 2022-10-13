@@ -8,5 +8,5 @@ Demo for lecture
 
 Text
 
-1. Numbered _list_
-2. Second *item*
+1. Numbered _list_ or *list*
+2. Second **item**
